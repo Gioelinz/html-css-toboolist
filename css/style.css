@@ -95,13 +95,44 @@ h1{
     color: tomato;
 }
 
-/* Main Box */
+/* Main */
 
 .box-main{
     margin: 1.5px 500px;
-    height: 650px;
+    height: 690px;
     background-color: white;
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
 }
 
+h2{
+    margin: 0px 0px 0px 0px;
+    padding: 30px 0px 0px 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    padding: 5px 5px 0px 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#check{
+    color: green;
+    padding: 1px 4px;
+    border-radius: 500%;
+    border: 1px solid green;
+}
+
+#x-symbol{
+
+}
+
+.label-blue{
+    background-color: #45ABEA;
+    color: white;
+    padding: 8px;
+    font-size: 0.7em;
+    border-radius: 50px;
+    cursor: pointer;
+}
