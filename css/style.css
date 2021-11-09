@@ -8,4 +8,32 @@ body{
     margin: 0;
 }
 
+.container{
+    width: 100%;
+    box-sizing: border-box;
+}
+
 /* Header */
+
+#head-bar{
+    background-color: #fff;
+    width: 100%;
+    height: 100px;
+    display: flex;
+}
+
+img{
+    height: 80px;
+    margin: 10px;
+    margin-left: 15px;
+    margin-right: 0px;
+
+}
+
+h1{ 
+   background-color: white;
+   font-size: 3em;
+   font-weight: bold;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   line-height: 50%;
+}
