@@ -131,8 +131,10 @@ p{
     padding: 0.5px 4px;
     border-radius: 50%;
     border: 1px solid red;
+}
 
-
+#arrow{
+    vertical-align: top;
 }
 
 /* Labels */
