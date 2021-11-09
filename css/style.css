@@ -117,19 +117,73 @@ p{
     font-size: larger;
 }
 
+/* Symbols */
+
 #check{
     color: green;
-    padding: 1px 4px;
-    border-radius: 500%;
+    padding: 0.5px 4px;
+    border-radius: 50%;
     border: 1px solid green;
 }
 
-#x-symbol{
+#cross{
+    color: red;
+    padding: 0.5px 4px;
+    border-radius: 50%;
+    border: 1px solid red;
+
 
 }
 
+/* Labels */
+
 .label-blue{
     background-color: #45ABEA;
+    color: white;
+    padding: 8px;
+    font-size: 0.7em;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.label-purple{
+    background-color: #9C72E4;
+    color: white;
+    padding: 8px;
+    font-size: 0.7em;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.label-acquagreen{
+    background-color: #64C0A9;
+    color: white;
+    padding: 8px;
+    font-size: 0.7em;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.label-orange{
+    background-color: #F29E33;
+    color: white;
+    padding: 8px;
+    font-size: 0.7em;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.label-pink{
+    background-color: #D863A1;
+    color: white;
+    padding: 8px;
+    font-size: 0.7em;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.label-olivegreen{
+    background-color: #B0C926;
     color: white;
     padding: 8px;
     font-size: 0.7em;
